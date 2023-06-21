@@ -63,10 +63,14 @@ colPerc(table1)
 ```
 There is a total of 100 men and women each. The males that are dead is a percentage of 64, while the females haev a percentage of 36. The percentage of females that are dead is half of the percentage that are males.
 
-
 ## Inferential results 
 
-
+```{r}
+chisq.test(table1)
+chisqtestGC(table1)
+fisher.test(table1)
+```
+In the group of 1831,  were alive and 1411. All in all more females are alive than male. the P value is 1 out of a thousand. It is a small chance to get a female and a male dying. In Fishers test,9 pit of 10,000 are about the same p value. You can also see the odds ratio of the odds of female living against the odds of male dying. We want to know whats the odds of this is happening. 
 
 
 ## Conclusions
