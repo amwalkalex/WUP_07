@@ -75,3 +75,6 @@ In the group of 1831,  were alive and 1411. All in all more females are alive th
 
 ## Conclusions
 
+In today lesson, I learned how to do a ggplot with the helper file. I changed the class for result and the name of the project kRdata. I was also able to create a numerical graph in percentage and counting. I also ran a test and a fishers test and both are equal in p value. All in all the males are the ones who suffered more during this study.
+
+
