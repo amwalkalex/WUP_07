@@ -28,7 +28,8 @@ state of a patient must be died or alive - we adjust that as well
 # Your Question - Is dying independent of sex?
 
 ## Methods
-We will analyze the sex of patients and the result of deceased of if theyre alive or dead.
+We will analyze the sex of patients and the result of deceased of if they re alive or dead. I will use the variable in my collection to Cat-cat. This is a problem that we can use the helper file to assist in solving, after copying it into our project to get the correct answer.
+
 
 
 ## Graphical results - use ggplot commands to do this  
