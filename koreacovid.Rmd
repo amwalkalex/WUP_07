@@ -56,6 +56,13 @@ There is more females tha m ales that show on these charts. Twice the amount of 
   
 ## Numerical results
 
+```{r}
+table1 <- xtabs(~result + Sex, data=kRdata)
+rowPerc(table1)
+colPerc(table1)
+```
+There is a total of 100 men and women each. The males that are dead is a percentage of 64, while the females haev a percentage of 36. The percentage of females that are dead is half of the percentage that are males.
+
 
 ## Inferential results 
 
